@@ -7,8 +7,8 @@
 ##
 <div align="center">
   <a href="https://github.com/Jeankininho">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Jeankininho&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeankininho&layout=compact&langs_count=7&theme=moltack"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Jeankininho&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeankininho&layout=compact&langs_count=7"/>
 </div>
   
   
@@ -21,13 +21,9 @@
   <img align="center" alt="HTML5" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Bootstrap" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</div> 
-<div style="display: inline_block"><br>
   <img align="center" alt="Ubuntu" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
   <img align="center" alt="Debian" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"/>
   <img align="center" alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
-</div> 
-<div style="display: inline_block"><br>
     <img align="center" alt="SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
