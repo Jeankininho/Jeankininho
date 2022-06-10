@@ -1,8 +1,8 @@
 * 🎓 Cursando Arquitetura e Engenharia de Cloud
 * ☕ Senior em C#
 * ☕ Estudando DevOps CI/CD
-* ![image](https://user-images.githubusercontent.com/2520292/172984732-89d140ce-1aa6-4d33-840a-202adf5fe345.png) Gamer generation
-* 👩🏻 Pronomes: Ele/Dele
+* <p><a href="https://playvalorant.com/pt-br/"><img src="https://user-images.githubusercontent.com/2520292/172984732-89d140ce-1aa6-4d33-840a-202adf5fe345.png" width="16" height="16" /> </p> Gamer generation
+* 👦 Pronomes: Ele/Dele
 
 ##
 <div align="center">
