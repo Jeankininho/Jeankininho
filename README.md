@@ -1,7 +1,7 @@
 * 🎓 Cursando Arquitetura e Engenharia de Cloud
 * ☕ Senior em C#
 * ☕ Estudando DevOps CI/CD
-* 💻 Bootcamp Generation 
+* ![image](https://user-images.githubusercontent.com/2520292/172984732-89d140ce-1aa6-4d33-840a-202adf5fe345.png) Gamer generation
 * 👩🏻 Pronomes: Ele/Dele
 
 ##
